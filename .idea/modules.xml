@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Sindicom.iml" filepath="$PROJECT_DIR$/Sindicom.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-android-sindicom.iml" filepath="$PROJECT_DIR$/app-android-sindicom.iml" />
     </modules>
   </component>
 </project>

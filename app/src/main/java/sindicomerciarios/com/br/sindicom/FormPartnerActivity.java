@@ -53,7 +53,7 @@ public class FormPartnerActivity extends AppCompatActivity {
 
         if (validForm) {
             Retrofit.Builder builder = new Retrofit.Builder()
-                    .baseUrl("http://162.243.245.197:8082/")
+                    .baseUrl("http://174.138.38.45:8082/")
                     .addConverterFactory(GsonConverterFactory.create());
 
             Retrofit retrofit = builder.build();

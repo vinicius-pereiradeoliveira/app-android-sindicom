@@ -13,7 +13,7 @@ import retrofit2.http.GET;
 
 public interface AdvantageService {
 
-    public static final String BASE_URL = "http://162.243.245.197:8082/";
+    public static final String BASE_URL = "http://174.138.38.45:8082/";
 
     @GET("api/advantages")
     Call<ListAdvantageSync> listAdvantages();
